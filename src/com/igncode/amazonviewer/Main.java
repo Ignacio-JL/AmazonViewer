@@ -1,6 +1,6 @@
 package com.igncode.amazonviewer;
 import java.text.SimpleDateFormat;
-//video 49 (completar los datos para todos los metodos)
+//video 51 (completar los datos para todos los metodos)
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
